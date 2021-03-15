@@ -30,7 +30,7 @@ function App() {
           </div>
           <div className="form-control">
             <label htmlFor="password">Password:</label>
-            <input type="text" id="password" ref={password}></input>
+            <input type="password" id="password" ref={password}></input>
           </div>
           <div className="form-control">
             <label htmlFor="remember">Remember</label>
